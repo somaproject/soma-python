@@ -1,5 +1,5 @@
-python-soma (0.9-1) unstable; urgency=low
+python-soma (0.9~somatesting-jaunty-github-090805153926) unstable; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release
 
  -- Stuart Layton <slayton@mit.edu>  Wed, 05 Aug 2009 15:20:59 -0400
