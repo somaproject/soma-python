@@ -1,0 +1,5 @@
+python-soma (0.9-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Stuart Layton <slayton@mit.edu>  Wed, 05 Aug 2009 15:20:59 -0400

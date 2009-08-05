@@ -1,0 +1,13 @@
+Source: python-soma
+Section: python
+Priority: extra
+Maintainer: Stuart Layton <slayton@mit.edu>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.0
+Homepage: <insert the upstream URL, if relevant>
+
+Package: python-soma
+Architecture: any
+Depends: python2.6
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
